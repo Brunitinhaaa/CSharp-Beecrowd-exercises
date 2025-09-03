@@ -23,7 +23,7 @@ O objetivo é praticar conceitos fundamentais de programação — entrada/saíd
 - Sem prompts extras ou mensagens além das especificadas.
 - Uso de CultureInfo.InvariantCulture para formatação decimal
 
-##📚 Referências
+## 📚 Referências
 
 [https://learn.microsoft.com/pt-br/dotnet/?utm_source=chatgpt.com]
 [https://judge.beecrowd.com/en/problems/index/1]
