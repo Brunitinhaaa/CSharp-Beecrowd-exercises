@@ -1,6 +1,6 @@
 # CSharp-Beecrowd-exercises
 
-Repositório com soluções em **C#** para todos os exercícios do nível **Beginner** do **Beecrowd** (cobertura das 14 páginas disponíveis na plataforma).  
+Repositório com soluções em **C#** para todos os exercícios do nível **Beginner** do **Beecrowd** (cobertura dos 334 problemas disponíveis na plataforma).  
 
 O objetivo é praticar conceitos fundamentais de programação — entrada/saída padrão, estruturas de controle, cálculos, laços, coleções e manipulação de strings — aplicados diretamente nos problemas da plataforma, com foco em **I/O exata** como exigido pelo juiz online.
 
